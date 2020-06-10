@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6wjXG2HvsYpC1jsKshLKhtkLOIN9QhfCBQ0zPX6laXLw5xft6vyf2cscPWxXx3JMtjynF33CphaPWhQrQOE5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\Escalona\\cSharpIntermediate\\Exercices_Section_2\\StopWatch\\StopWatch\\StopWatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
