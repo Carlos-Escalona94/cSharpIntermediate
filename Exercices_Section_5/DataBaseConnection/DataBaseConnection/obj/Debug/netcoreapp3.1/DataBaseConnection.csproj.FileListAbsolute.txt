@@ -1,0 +1,13 @@
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_5\DataBaseConnection\DataBaseConnection\bin\Debug\netcoreapp3.1\DataBaseConnection.exe
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_5\DataBaseConnection\DataBaseConnection\bin\Debug\netcoreapp3.1\DataBaseConnection.deps.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_5\DataBaseConnection\DataBaseConnection\bin\Debug\netcoreapp3.1\DataBaseConnection.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_5\DataBaseConnection\DataBaseConnection\bin\Debug\netcoreapp3.1\DataBaseConnection.runtimeconfig.dev.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_5\DataBaseConnection\DataBaseConnection\bin\Debug\netcoreapp3.1\DataBaseConnection.dll
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_5\DataBaseConnection\DataBaseConnection\bin\Debug\netcoreapp3.1\DataBaseConnection.pdb
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_5\DataBaseConnection\DataBaseConnection\obj\Debug\netcoreapp3.1\DataBaseConnection.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_5\DataBaseConnection\DataBaseConnection\obj\Debug\netcoreapp3.1\DataBaseConnection.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_5\DataBaseConnection\DataBaseConnection\obj\Debug\netcoreapp3.1\DataBaseConnection.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_5\DataBaseConnection\DataBaseConnection\obj\Debug\netcoreapp3.1\DataBaseConnection.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_5\DataBaseConnection\DataBaseConnection\obj\Debug\netcoreapp3.1\DataBaseConnection.dll
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_5\DataBaseConnection\DataBaseConnection\obj\Debug\netcoreapp3.1\DataBaseConnection.pdb
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_5\DataBaseConnection\DataBaseConnection\obj\Debug\netcoreapp3.1\DataBaseConnection.genruntimeconfig.cache

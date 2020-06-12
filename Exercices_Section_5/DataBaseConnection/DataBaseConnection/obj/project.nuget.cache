@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h+AAodaQE70udlg25pli+Pw9zvPehZdVCyJ6RfB/l7V9h0TL6i7yu762LgwHV9nxOb87TIZGSMkGxBlIzQZ8dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\Escalona\\cSharpIntermediate\\Exercices_Section_5\\DataBaseConnection\\DataBaseConnection\\DataBaseConnection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
