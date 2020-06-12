@@ -1,0 +1,13 @@
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_6\WorkFlowEngine\WorkFlowEngine\bin\Debug\netcoreapp3.1\WorkFlowEngine.exe
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_6\WorkFlowEngine\WorkFlowEngine\bin\Debug\netcoreapp3.1\WorkFlowEngine.deps.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_6\WorkFlowEngine\WorkFlowEngine\bin\Debug\netcoreapp3.1\WorkFlowEngine.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_6\WorkFlowEngine\WorkFlowEngine\bin\Debug\netcoreapp3.1\WorkFlowEngine.runtimeconfig.dev.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_6\WorkFlowEngine\WorkFlowEngine\bin\Debug\netcoreapp3.1\WorkFlowEngine.dll
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_6\WorkFlowEngine\WorkFlowEngine\bin\Debug\netcoreapp3.1\WorkFlowEngine.pdb
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_6\WorkFlowEngine\WorkFlowEngine\obj\Debug\netcoreapp3.1\WorkFlowEngine.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_6\WorkFlowEngine\WorkFlowEngine\obj\Debug\netcoreapp3.1\WorkFlowEngine.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_6\WorkFlowEngine\WorkFlowEngine\obj\Debug\netcoreapp3.1\WorkFlowEngine.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_6\WorkFlowEngine\WorkFlowEngine\obj\Debug\netcoreapp3.1\WorkFlowEngine.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_6\WorkFlowEngine\WorkFlowEngine\obj\Debug\netcoreapp3.1\WorkFlowEngine.dll
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_6\WorkFlowEngine\WorkFlowEngine\obj\Debug\netcoreapp3.1\WorkFlowEngine.pdb
+C:\Users\Gustavo\Desktop\Escalona\cSharpIntermediate\Exercices_Section_6\WorkFlowEngine\WorkFlowEngine\obj\Debug\netcoreapp3.1\WorkFlowEngine.genruntimeconfig.cache

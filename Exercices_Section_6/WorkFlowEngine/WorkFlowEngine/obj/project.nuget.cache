@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G05nG6w+xZphPzOKk/65zm7yFeeorx80FtHUzZD7VosZVLqsXAeKWhLV5a4MzjV+3KRtSDI9CWnKhHczvNEAGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\Escalona\\cSharpIntermediate\\Exercices_Section_6\\WorkFlowEngine\\WorkFlowEngine\\WorkFlowEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
